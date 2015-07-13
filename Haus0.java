@@ -21,10 +21,6 @@
 
 public class Haus0 {
 
-
-
-
-
     public static void main(String[] args) {
 
         Scanner nn = new Scanner(System.in);
@@ -160,7 +156,7 @@ public class Haus0 {
                     if (this.getKomnat()  == t){
                         System.out.println(toString());
                     }
-                }//else System.out.println("ѕо заданным параметрам квартир не найдено!");
+                }
             }
             public void komn(int e) {
                  if(this.getKomnat() == e){
