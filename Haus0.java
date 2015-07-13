@@ -23,7 +23,7 @@ public class Haus0 {
 
     public static void main(String[] args) {
 
-        Scanner nn = new Scanner(System.in);
+        Scanner nn = new Scanner(System.in);//hggfxs
         Haus0 hh = new Haus0();
         Haus[] hau = new Haus[6];
         hau[0] = new Haus(1, 5, 44, 3, 2, "Ленина", "Кооперативный", "10 лет" );
